@@ -45,16 +45,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Wassim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wassim-Mokliss&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wassim-Mokliss&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
